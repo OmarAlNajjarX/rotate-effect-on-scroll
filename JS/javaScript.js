@@ -1,5 +1,5 @@
 //Define the varibles 
-var $block = $('.block');
+var $block = $('.border-radius-object');
 
 //It represents the browser's window.
 var $win = $(window);
